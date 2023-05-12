@@ -1,13 +1,14 @@
 {
   "name": "send",
   "description": "File Sharing Experiment",
-  "version": "3.4.23",
+  "version": "3.4.24",
   "author": "Mozilla (https://mozilla.org)",
   "contributors": [
-    "Tim Visee <3a4fb3964f@sinenomine.email> (https://timvisee.com)"
+    "Tim Visee <3a4fb3964f@sinenomine.email> (https://timvisee.com)",
+    "xavion-lux <xavion.lux@gmail.com>"
   ],
-  "repository": "gitlab:timvisee/send",
-  "homepage": "https://gitlab.com/timvisee/send/",
+  "repository": "github:xavion-lux/send",
+  "homepage": "https://github.com/xavion-lux/send/",
   "license": "MPL-2.0",
   "private": true,
   "scripts": {
